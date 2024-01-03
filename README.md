@@ -34,3 +34,6 @@ This JavaScript-based application allows users to create, edit, and manage virtu
 git clone https://github.com/benchang323/Stickynotes-Web-Application.git
 cd Stickynotes-Web-Application
 ```
+
+## Demo
+https://cs280fa23-coursework.github.io/homework-2-stickynotes-app-benchang323/
